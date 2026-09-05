@@ -115,7 +115,4 @@ python anemia_detection_tabnet.py
 
 The project generates feature-ranking and confusion-matrix visualizations and evaluates the model using stratified cross-validation.
 
-## Author
-
-**Keerthana N**
 
