@@ -27,7 +27,7 @@ The workflow includes:
 * Matplotlib
 * Seaborn
 
-## Machine Learning Methods
+## AI & Deep Learning Methods
 
 ### SABO Feature Selection
 
