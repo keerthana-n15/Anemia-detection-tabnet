@@ -1,4 +1,3 @@
-# Anemia-detection-tabnet
 # Anemia Detection Using TabNet
 
 An AI-based anemia classification project using **TabNet**, **SABO-based feature selection**, and **GWCA-based hyperparameter optimization**.
